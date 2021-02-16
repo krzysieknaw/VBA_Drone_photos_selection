@@ -10,4 +10,4 @@ JPG photo files (tested with photo made by DJI Phantom 4 camera)
 
 ### Screenshots
 #### User Interface
-<img width="400" alt="" src="img/selekcja_punktow_screenshot.JPG">
+<img width="400" alt="" src="img/photo_selection_screenshot.JPG">
