@@ -7,7 +7,7 @@ Copies photo created inside quadrangle with the corners coordinates meets the co
 
 ### Imput file
 JPG photo files (tested with photo made by DJI Phantom 4 camera)  
-example photo <a href='https://github.com/krzysieknaw/Algorithms_and_Data_Structures/tree/main/algoritms_speed'> HERE </a>
+example photo <a href='https://github.com/krzysieknaw/VBA_Drone_photos_selection/blob/main/data/101_0368_0257.JPG'> HERE </a>
 
 ### Screenshots
 #### User Interface
